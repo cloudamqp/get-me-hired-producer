@@ -1,0 +1,5 @@
+fastapi==0.75.0
+pika==1.1.0
+uvicorn[standard]
+pydantic[email]
+python-dotenv
